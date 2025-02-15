@@ -20,7 +20,15 @@ The data
 The data is available in the manufacturing_parts table which has the following fields:
 
 item_no: the item number
+
+
 length: the length of the item made
+
+
 width: the width of the item made
+
+
 height: the height of the item made
+
+
 operator: the operating machine
